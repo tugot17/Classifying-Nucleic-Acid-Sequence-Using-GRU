@@ -9,7 +9,7 @@ The obtained results are surprisingly good, thanks to usage of GRU cells it was 
 ## Getting Started
 
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com)
-The main file is [Classifying-Nucleic-Acid-Sequence-using-Gated-Recurrent-Units.ipynb](Classifying-Nucleic-Acid-Sequence-using-Gated-Recurrent-Units.ipynb)
+The main file is [Classifying-Nucleic-Acid-Sequence.ipynb](Classifying-Nucleic-Acid-Sequence.ipynb)
 
 ### Prerequisites
 ```
