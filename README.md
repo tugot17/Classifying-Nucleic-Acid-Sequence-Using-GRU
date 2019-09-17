@@ -2,7 +2,7 @@
 
 Tensorflow 2.0 implementation of classification of the genetic code sequence. Genetic code has form of Nucleobases sequence (A C T G). We use GRU cells (Gated Recurrent Units) to classyfie given sequence to one of five classes. 
 
-The obtained results are surprisingly good, thanks to usage of GRU cells it was possible to achive about 100% accuracy on boh validation set and training set. 
+The obtained results are surprisingly good, thanks to usage of GRU cells it was possible to achive about 100% accuracy on both validation  and training set. 
 
 <img src="Images/dna.png" alt="drawing" width="300px"/>
 
